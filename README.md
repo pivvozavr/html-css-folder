@@ -4,15 +4,13 @@ This repository is a collection of projects created using HTML and CSS. Each pro
 
 ## Project List
 
-1. [ToDo app](https://github.com/pivvozavr/html-css-folder/tree/master/ToDo%20app): This project is a simple one-page ToDo app.
+1. [Registration-form](https://github.com/pivvozavr/html-css-folder/tree/master/registration-form): This repository contains a test HTML registration form created as part of a project from FreeCodeCamp. It is a simple form that collects user information for registration purposes.
 
-2. [Registration-form](https://github.com/pivvozavr/html-css-folder/tree/master/registration-form): This repository contains a test HTML registration form created as part of a project from FreeCodeCamp. It is a simple form that collects user information for registration purposes.
+2. [Survey-form](https://github.com/pivvozavr/html-css-folder/tree/master/survey-form): This is a survey form created using HTML and CSS. It fulfills the user stories and passes all the tests. The form has been styled using CSS, as recommended in the lessons.
 
-3. [Survey-form](https://github.com/pivvozavr/html-css-folder/tree/master/survey-form): This is a survey form created using HTML and CSS. It fulfills the user stories and passes all the tests. The form has been styled using CSS, as recommended in the lessons.
+3. [Color Practice Task](https://github.com/pivvozavr/html-css-folder/tree/master/verstkaOneLove): This repository contains a CSS color practice task that aims to improve your understanding and usage of CSS color properties and concepts.
 
-4. [Color Practice Task](https://github.com/pivvozavr/html-css-folder/tree/master/verstkaOneLove): This repository contains a CSS color practice task that aims to improve your understanding and usage of CSS color properties and concepts.
-
-5. [Weather App](https://github.com/pivvozavr/html-css-folder/tree/master/weather-app): This Weather App is a simple web application that allows users to get weather information for any location. It is built using HTML, CSS, and JavaScript.
+4. [Weather App](https://github.com/pivvozavr/html-css-folder/tree/master/weather-app): This Weather App is a simple web application that allows users to get weather information for any location. It is built using HTML, CSS, and JavaScript.
 
 ## How to Run the Projects
 
